@@ -1,0 +1,7 @@
+with open('example.txt', 'w') as file:
+    file.write("""This is the first line.
+Here is the second line with desired text.
+Another line without the term.
+Yet another line with desired text again.
+Should add another line with desired text again.
+End of the file.""")
